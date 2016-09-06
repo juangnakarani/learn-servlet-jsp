@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.juang.basicservlet;
+package com.juang.servletjsp;
 
 import java.io.IOException;
 import javax.servlet.ServletConfig;
