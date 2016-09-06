@@ -29,6 +29,7 @@ public class Login extends HttpServlet {
         param = Integer.parseInt(config.getInitParameter("action"));
     }
 
+
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
